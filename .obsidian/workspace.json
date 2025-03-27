@@ -11,26 +11,32 @@
             "id": "08573a81a2ace480",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "papers/1/notes.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "notes"
             }
           }
         ]
       },
       {
-        "id": "c172ab2d6eb62cee",
+        "id": "5d06e613c105c5bc",
         "type": "tabs",
         "children": [
           {
-            "id": "565e836c5ca79192",
+            "id": "db12668b123c6b10",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "pdf",
+              "state": {
+                "file": "papers/1/Batmaz2018_Article_AReviewOnDeepLearningForRecomm.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Batmaz2018_Article_AReviewOnDeepLearningForRecomm"
             }
           }
         ]
@@ -178,8 +184,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3b95c6440877464f",
+  "active": "08573a81a2ace480",
   "lastOpenFiles": [
+    "papers/1/Batmaz2018_Article_AReviewOnDeepLearningForRecomm.pdf",
+    "papers/1/notes.md",
+    "paper-refrence-list.md",
+    "papers/1",
+    "paper-pdf",
+    "papers",
     "Welcome.md"
   ]
 }
