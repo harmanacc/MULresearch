@@ -6,6 +6,7 @@
       {
         "id": "c0f4b24ba2ee0eaf",
         "type": "tabs",
+        "dimension": 38.44765342960289,
         "children": [
           {
             "id": "08573a81a2ace480",
@@ -26,6 +27,7 @@
       {
         "id": "5d06e613c105c5bc",
         "type": "tabs",
+        "dimension": 61.55234657039711,
         "children": [
           {
             "id": "db12668b123c6b10",
@@ -96,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "85b5f469aa2717aa",
@@ -188,6 +190,10 @@
   "lastOpenFiles": [
     "papers/1/Batmaz2018_Article_AReviewOnDeepLearningForRecomm.pdf",
     "papers/1/notes.md",
+    "Pasted image 20250328040046.png",
+    "images/Pasted image 20250328033528.png",
+    "images/Pasted image 20250328032112.png",
+    "images",
     "paper-refrence-list.md",
     "papers/1",
     "paper-pdf",
