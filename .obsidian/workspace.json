@@ -4,44 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "c0f4b24ba2ee0eaf",
+        "id": "e0603946a5865d0d",
         "type": "tabs",
-        "dimension": 34.43935926773455,
         "children": [
           {
-            "id": "08573a81a2ace480",
+            "id": "4393f21bfb4b668d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "papers/1/notes.md",
-                "mode": "source",
-                "source": false
+                "file": "images/Pasted image 20250328040046.png"
               },
-              "icon": "lucide-file",
-              "title": "notes"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250328040046"
             }
-          }
-        ]
-      },
-      {
-        "id": "5d06e613c105c5bc",
-        "type": "tabs",
-        "dimension": 65.56064073226545,
-        "children": [
+          },
           {
-            "id": "db12668b123c6b10",
+            "id": "52d38dcbef8dc278",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "image",
               "state": {
-                "file": "papers/1/Batmaz2018_Article_AReviewOnDeepLearningForRecomm.pdf"
+                "file": "images/Pasted image 20250331181331.png"
               },
-              "icon": "lucide-file-text",
-              "title": "Batmaz2018_Article_AReviewOnDeepLearningForRecomm"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250331181331"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "85b5f469aa2717aa",
@@ -187,19 +177,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "08573a81a2ace480",
+  "active": "3b95c6440877464f",
   "lastOpenFiles": [
-    "papers/1/Batmaz2018_Article_AReviewOnDeepLearningForRecomm.pdf",
+    "images/Pasted image 20250328040046.png",
     "papers/1/notes.md",
-    "Pasted image 20250331181331.png",
-    "Pasted image 20250328040046.png",
+    "images/Pasted image 20250331181331.png",
+    "papers/1/Batmaz2018_Article_AReviewOnDeepLearningForRecomm.pdf",
+    "paper-refrence-list.md",
+    "papers/1",
+    "papers",
     "images/Pasted image 20250328033528.png",
     "images/Pasted image 20250328032112.png",
     "images",
-    "paper-refrence-list.md",
-    "papers/1",
-    "paper-pdf",
-    "papers",
     "Welcome.md"
   ]
 }
