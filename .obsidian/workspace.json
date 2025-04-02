@@ -23,12 +23,14 @@
             "id": "52d38dcbef8dc278",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/Pasted image 20250331181331.png"
+                "file": "paper-refrence-list.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250331181331"
+              "icon": "lucide-file",
+              "title": "paper-refrence-list"
             }
           }
         ],
@@ -177,11 +179,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3b95c6440877464f",
+  "active": "52d38dcbef8dc278",
   "lastOpenFiles": [
+    "images/Pasted image 20250331181331.png",
     "images/Pasted image 20250328040046.png",
     "papers/1/notes.md",
-    "images/Pasted image 20250331181331.png",
     "papers/1/Batmaz2018_Article_AReviewOnDeepLearningForRecomm.pdf",
     "paper-refrence-list.md",
     "papers/1",
