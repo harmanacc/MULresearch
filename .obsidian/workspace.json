@@ -35,10 +35,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "papers/1/Batmaz2018_Article_AReviewOnDeepLearningForRecomm.pdf"
+                "file": "papers/2/Machine Unlearning_ A Survey.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Batmaz2018_Article_AReviewOnDeepLearningForRecomm"
+              "title": "Machine Unlearning_ A Survey"
             }
           }
         ]
@@ -98,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "85b5f469aa2717aa",
@@ -187,9 +186,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "08573a81a2ace480",
+  "active": "db12668b123c6b10",
   "lastOpenFiles": [
     "papers/1/Batmaz2018_Article_AReviewOnDeepLearningForRecomm.pdf",
+    "papers/2/Machine Unlearning_ A Survey.pdf",
+    "papers/2",
     "papers/1/notes.md",
     "Pasted image 20250331181331.png",
     "Pasted image 20250328040046.png",
