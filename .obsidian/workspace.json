@@ -6,6 +6,26 @@
       {
         "id": "ff1f124ef49a730d",
         "type": "tabs",
+        "dimension": 70.11173184357543,
+        "children": [
+          {
+            "id": "f6f581e384bc55de",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "papers/3/Machine Unlearning Solutions and Challenges.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Machine Unlearning Solutions and Challenges"
+            }
+          }
+        ]
+      },
+      {
+        "id": "c94320285dbdc1df",
+        "type": "tabs",
+        "dimension": 29.88826815642458,
         "children": [
           {
             "id": "c19a749afe901b40",
@@ -74,11 +94,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 275.0004348754883
+    "width": 275.0004348754883,
+    "collapsed": true
   },
   "right": {
     "id": "85b5f469aa2717aa",
@@ -166,24 +188,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c19a749afe901b40",
+  "active": "f6f581e384bc55de",
   "lastOpenFiles": [
-    "papers/3/Machine Unlearning Solutions and Challenges.pdf",
     "papers/3/notes.md",
+    "papers/3/Machine Unlearning Solutions and Challenges.pdf",
+    "Pasted image 20250418190548.png",
+    "Pasted image 20250418184131.png",
+    "Pasted image 20250418171846.png",
+    "Pasted image 20250418164317.png",
+    "Pasted image 20250418164137.png",
+    "Pasted image 20250418162406.png",
+    "Pasted image 20250418161939.png",
+    "paper-refrence-list.md",
     "images/Pasted image 20250418135620.png",
     "papers/3",
     "papers/2/notes.md",
     "papers/2/Machine Unlearning_ A Survey.pdf",
     "images/Pasted image 20250418134157.png",
     "images/Pasted image 20250418132745.png",
-    "images/Pasted image 20250418132728.png",
-    "images/Pasted image 20250418121223.png",
-    "images/Pasted image 20250418120656.png",
-    "images/Pasted image 20250418120653.png",
-    "images/Pasted image 20250418115023.png",
-    "images/Pasted image 20250418111110.png",
-    "images/Pasted image 20250415010534.png",
-    "paper-refrence-list.md",
     "papers/1/notes.md",
     "papers/1/Batmaz2018_Article_AReviewOnDeepLearningForRecomm.pdf",
     "papers/2",
