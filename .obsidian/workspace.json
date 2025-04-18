@@ -12,12 +12,12 @@
             "id": "f6f581e384bc55de",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "image",
               "state": {
-                "file": "papers/3/Machine Unlearning Solutions and Challenges.pdf"
+                "file": "images/Pasted image 20250418190548.png"
               },
-              "icon": "lucide-file-text",
-              "title": "Machine Unlearning Solutions and Challenges"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250418190548"
             }
           }
         ]
@@ -94,13 +94,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 275.0004348754883,
-    "collapsed": true
+    "width": 275.0004348754883
   },
   "right": {
     "id": "85b5f469aa2717aa",
@@ -190,15 +188,15 @@
   },
   "active": "f6f581e384bc55de",
   "lastOpenFiles": [
-    "papers/3/notes.md",
     "papers/3/Machine Unlearning Solutions and Challenges.pdf",
-    "Pasted image 20250418190548.png",
-    "Pasted image 20250418184131.png",
-    "Pasted image 20250418171846.png",
-    "Pasted image 20250418164317.png",
-    "Pasted image 20250418164137.png",
-    "Pasted image 20250418162406.png",
-    "Pasted image 20250418161939.png",
+    "papers/3/notes.md",
+    "images/Pasted image 20250418190548.png",
+    "images/Pasted image 20250418184131.png",
+    "images/Pasted image 20250418171846.png",
+    "images/Pasted image 20250418164317.png",
+    "images/Pasted image 20250418164137.png",
+    "images/Pasted image 20250418162406.png",
+    "images/Pasted image 20250418161939.png",
     "paper-refrence-list.md",
     "images/Pasted image 20250418135620.png",
     "papers/3",
