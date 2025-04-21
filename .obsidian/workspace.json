@@ -4,38 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "ff1f124ef49a730d",
+        "id": "35831d3ed3a330eb",
         "type": "tabs",
-        "dimension": 71.69642857142857,
+        "dimension": 73.70311252992818,
         "children": [
           {
-            "id": "f6f581e384bc55de",
+            "id": "d508ff1948b7817d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "papers/5/notes.md",
-                "mode": "source",
-                "source": false
+                "file": "papers/5/Machine Unlearning_ A Comprehensive Survey.pdf"
               },
-              "icon": "lucide-file",
-              "title": "notes"
+              "icon": "lucide-file-text",
+              "title": "Machine Unlearning_ A Comprehensive Survey"
             }
           }
         ]
       },
       {
-        "id": "54d699d4b682c5c7",
+        "id": "b6aff408451dae7a",
         "type": "tabs",
-        "dimension": 28.303571428571427,
+        "dimension": 26.296887470071827,
         "children": [
           {
-            "id": "2a5964482753a8b1",
+            "id": "3595e05be14c4ca3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "papers/4/notes.md",
+                "file": "papers/5/notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -75,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#recommendation-systems",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,11 +94,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 402
+    "width": 402,
+    "collapsed": true
   },
   "right": {
     "id": "85b5f469aa2717aa",
@@ -188,24 +188,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f6f581e384bc55de",
+  "active": "d508ff1948b7817d",
   "lastOpenFiles": [
-    "paper-refrence-list.md",
     "papers/5/notes.md",
-    "images/Pasted image 20250419004326.png",
     "papers/5/Machine Unlearning_ A Comprehensive Survey.pdf",
+    "Pasted image 20250421225539.png",
+    "Pasted image 20250421225216.png",
+    "Pasted image 20250421224005.png",
+    "Pasted image 20250421223754.png",
+    "Pasted image 20250421222553.png",
+    "Pasted image 20250421203122.png",
+    "Pasted image 20250421201141.png",
+    "Pasted image 20250421195637.png",
+    "Pasted image 20250421195051.png",
+    "Pasted image 20250421193623.png",
+    "papers/4/notes.md",
+    "paper-refrence-list.md",
     "papers/5",
     "papers/4/Machine Un-learning: An Overview of Techniques, Applications, and Future Directions.pdf",
-    "papers/4/notes.md",
-    "images/Pasted image 20250419011331.png",
-    "images/Pasted image 20250419010518.png",
-    "images/Pasted image 20250419010415.png",
-    "images/Pasted image 20250419005906.png",
-    "images/Pasted image 20250419005840.png",
-    "images/Pasted image 20250419005009.png",
-    "images/Pasted image 20250419005003.png",
-    "images/Pasted image 20250419004936.png",
-    "images/Pasted image 20250419004910.png",
     "papers/4",
     "papers/3/Machine Unlearning Solutions and Challenges.pdf",
     "papers/3/notes.md",
