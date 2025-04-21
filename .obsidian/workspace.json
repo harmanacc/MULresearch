@@ -12,12 +12,14 @@
             "id": "f6f581e384bc55de",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "papers/4/Machine Un-learning: An Overview of Techniques, Applications, and Future Directions.pdf"
+                "file": "papers/5/notes.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Machine Un-learning: An Overview of Techniques, Applications, and Future Directions"
+              "icon": "lucide-file",
+              "title": "notes"
             }
           }
         ]
@@ -98,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.0004348754883,
-    "collapsed": true
+    "width": 402
   },
   "right": {
     "id": "85b5f469aa2717aa",
@@ -187,21 +188,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2a5964482753a8b1",
+  "active": "f6f581e384bc55de",
   "lastOpenFiles": [
+    "paper-refrence-list.md",
+    "papers/5/notes.md",
+    "images/Pasted image 20250419004326.png",
+    "papers/5/Machine Unlearning_ A Comprehensive Survey.pdf",
+    "papers/5",
     "papers/4/Machine Un-learning: An Overview of Techniques, Applications, and Future Directions.pdf",
     "papers/4/notes.md",
-    "Pasted image 20250419011331.png",
-    "Pasted image 20250419010518.png",
-    "Pasted image 20250419010415.png",
-    "Pasted image 20250419005906.png",
-    "Pasted image 20250419005840.png",
-    "Pasted image 20250419005009.png",
-    "Pasted image 20250419005003.png",
-    "Pasted image 20250419004936.png",
-    "Pasted image 20250419004910.png",
-    "Pasted image 20250419004523.png",
-    "paper-refrence-list.md",
+    "images/Pasted image 20250419011331.png",
+    "images/Pasted image 20250419010518.png",
+    "images/Pasted image 20250419010415.png",
+    "images/Pasted image 20250419005906.png",
+    "images/Pasted image 20250419005840.png",
+    "images/Pasted image 20250419005009.png",
+    "images/Pasted image 20250419005003.png",
+    "images/Pasted image 20250419004936.png",
+    "images/Pasted image 20250419004910.png",
     "papers/4",
     "papers/3/Machine Unlearning Solutions and Challenges.pdf",
     "papers/3/notes.md",
@@ -212,8 +216,6 @@
     "papers/1/Batmaz2018_Article_AReviewOnDeepLearningForRecomm.pdf",
     "papers/2",
     "images",
-    "papers/1",
-    "paper-pdf",
     "Welcome.md"
   ]
 }
