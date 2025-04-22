@@ -14,10 +14,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "papers/6/A Survey on Recommendation Unlearning.pdf"
+                "file": "papers/7/Recommendation Unlearnin.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "A Survey on Recommendation Unlearning"
+              "title": "Recommendation Unlearnin"
             }
           }
         ]
@@ -31,12 +31,14 @@
             "id": "57d98bc4aa4fb833",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/Pasted image 20250421235933.png"
+                "file": "papers/7/notes.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250421235933"
+              "icon": "lucide-file",
+              "title": "notes"
             }
           }
         ]
@@ -184,21 +186,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3b95c6440877464f",
+  "active": "57d98bc4aa4fb833",
   "lastOpenFiles": [
-    "papers/6/notes.md",
+    "images/Pasted image 20250422112448.png",
+    "papers/7/notes.md",
+    "papers/7/Recommendation Unlearnin.pdf",
+    "images/Pasted image 20250422112431.png",
+    "images/Pasted image 20250422112337.png",
+    "images/Pasted image 20250422112320.png",
+    "images/Pasted image 20250422111818.png",
+    "paper-refrence-list.md",
     "papers/6/A Survey on Recommendation Unlearning.pdf",
+    "images/Pasted image 20250421235933.png",
+    "papers/7",
+    "papers/6/notes.md",
     "images/Pasted image 20250422103754.png",
     "images/Pasted image 20250422103418.png",
     "images/Pasted image 20250422102758.png",
     "images/Pasted image 20250422100020.png",
-    "images/Pasted image 20250422095349.png",
-    "images/Pasted image 20250422095238.png",
-    "images/Pasted image 20250422094748.png",
-    "images/Pasted image 20250422002706.png",
-    "images/Pasted image 20250422002421.png",
-    "images/Pasted image 20250422000547.png",
-    "paper-refrence-list.md",
     "papers/5/Machine Unlearning_ A Comprehensive Survey.pdf",
     "papers/6",
     "papers/5/notes.md",
@@ -210,9 +215,7 @@
     "papers/3/notes.md",
     "papers/3",
     "papers/2/notes.md",
-    "papers/2/Machine Unlearning_ A Survey.pdf",
     "papers/1/notes.md",
-    "papers/1/Batmaz2018_Article_AReviewOnDeepLearningForRecomm.pdf",
     "Welcome.md"
   ]
 }
