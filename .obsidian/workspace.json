@@ -6,7 +6,7 @@
       {
         "id": "35831d3ed3a330eb",
         "type": "tabs",
-        "dimension": 15.388257575757574,
+        "dimension": 60.3219696969697,
         "children": [
           {
             "id": "d508ff1948b7817d",
@@ -14,10 +14,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "papers/7/Recommendation Unlearnin.pdf"
+                "file": "papers/8/Exploring_Unlearning_Methods_to_Ensure_the_Privacy,_Security,_and.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Recommendation Unlearnin"
+              "title": "Exploring_Unlearning_Methods_to_Ensure_the_Privacy,_Security,_and"
             }
           }
         ]
@@ -25,20 +25,16 @@
       {
         "id": "b6aff408451dae7a",
         "type": "tabs",
-        "dimension": 84.61174242424242,
+        "dimension": 39.678030303030305,
         "children": [
           {
             "id": "57d98bc4aa4fb833",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "papers/7/Recommendation Unlearnin RecEraser.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Recommendation Unlearnin RecEraser"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -98,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 402
+    "width": 402,
+    "collapsed": true
   },
   "right": {
     "id": "85b5f469aa2717aa",
@@ -186,8 +183,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "57d98bc4aa4fb833",
+  "active": "d508ff1948b7817d",
   "lastOpenFiles": [
+    "papers/8/Exploring_Unlearning_Methods_to_Ensure_the_Privacy_Security_and.md",
+    "papers/7/Recommendation Unlearnin.pdf",
+    "papers/8/Exploring_Unlearning_Methods_to_Ensure_the_Privacy,_Security,_and.pdf",
+    "papers/7/Recommendation Unlearnin RecEraser.md",
+    "papers/8",
     "papers/6/A Survey on Recommendation Unlearning.md",
     "papers/5/Machine Unlearning_ A Comprehensive Survey.md",
     "papers/4/Machine Unlearning An Overview of Techniques Applications and Future Directions.md",
@@ -196,9 +198,7 @@
     "papers/3/Machine Unlearning Solutions and Challenges.pdf",
     "papers/2/Machine Unlearning_ A Survey.md",
     "papers/1/Batmaz2018_Article_AReviewOnDeepLearningForRecomm.md",
-    "papers/7/Recommendation Unlearnin RecEraser.md",
     "images/Pasted image 20250422112448.png",
-    "papers/7/Recommendation Unlearnin.pdf",
     "images/Pasted image 20250422112431.png",
     "images/Pasted image 20250422112337.png",
     "images/Pasted image 20250422112320.png",
@@ -214,8 +214,6 @@
     "papers/5/Machine Unlearning_ A Comprehensive Survey.pdf",
     "papers/6",
     "papers/5",
-    "papers/4",
-    "papers/3",
     "Welcome.md"
   ]
 }
