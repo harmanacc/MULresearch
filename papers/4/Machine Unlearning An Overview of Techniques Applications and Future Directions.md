@@ -1,3 +1,7 @@
+[[Machine Un-learning: An Overview of Techniques, Applications, and Future Directions.pdf]]
+
+
+
 > One may suggest an “active unlearn- ing” method, in which, in the case of a recommender system, the customer may be presented with a set of recommenda- tions and asked to explicitly choose which recommenda- tions are wrong so that the system can make corrections to itself [8, 9]. But note that this is not “correcting” the model as much as it is making it “adapt” — just like in reinforce- ment learning [10]. Instead of going back and undoing any previous actions, we are adding more corrective data to the dataset, which causes the machine to behave differently. ***==This approach could lead to the desired outcomes, but it funda- mentally differs from MUL. #important ==***
 
 [[Machine Un-learning: An Overview of Techniques, Applications, and Future Directions.pdf#page=1&selection=80,22,91,26|Machine Un-learning: An Overview of Techniques, Applications, and Future Directions, page 1]]

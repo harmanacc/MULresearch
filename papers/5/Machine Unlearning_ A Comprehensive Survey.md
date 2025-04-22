@@ -1,3 +1,5 @@
+[[Machine Unlearning_ A Comprehensive Survey.pdf]]
+
 > We categorize current unlearning methods into four key areas: centralized unlearning, federated unlearning, unlearning verification, and privacy and security issues in unlearning.
 
 [[Machine Unlearning_ A Comprehensive Survey.pdf#page=1&selection=22,32,23,93|Machine Unlearning_ A Comprehensive Survey, page 1]]

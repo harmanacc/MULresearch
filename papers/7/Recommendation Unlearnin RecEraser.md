@@ -1,3 +1,5 @@
+[[Recommendation Unlearnin.pdf]]
+
 > In this paper, we propose #RecEraser, a general and efficient ma- chine unlearning framework tailored to recommendation tasks.
 
 [[Recommendation Unlearnin.pdf#page=1&selection=39,0,40,60|Recommendation Unlearnin, page 1]]
@@ -77,7 +79,7 @@
 
 > [!NOTE] myNote
 > as the paper is very important , it should be re-read and carefully examined , and its code base 
-> #later-study #important 
+> #later-study #important  #RecEraser 
 
 
 

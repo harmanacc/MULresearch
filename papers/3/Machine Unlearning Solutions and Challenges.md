@@ -1,3 +1,5 @@
+[[Machine Unlearning Solutions and Challenges.pdf]]
+
 > Third, machine unlearning improves the adaptability of models over time in dynamic environments. Models trained on static historical data can become outdated as the data distributions shift over time [15]. For example, customer preferences may change in the recommendation system. By selectively removing outdated or unrepresentative data, ma- chine unlearning enables the model to maintain performance even as the environment evolves [16].
 
 [[Machine Unlearning Solutions and Challenges.pdf#page=3&selection=83,0,104,37|Machine Unlearning Solutions and Challenges, page 3]]

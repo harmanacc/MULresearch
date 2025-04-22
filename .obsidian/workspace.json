@@ -6,7 +6,7 @@
       {
         "id": "35831d3ed3a330eb",
         "type": "tabs",
-        "dimension": 73.70311252992818,
+        "dimension": 15.388257575757574,
         "children": [
           {
             "id": "d508ff1948b7817d",
@@ -25,7 +25,7 @@
       {
         "id": "b6aff408451dae7a",
         "type": "tabs",
-        "dimension": 26.296887470071827,
+        "dimension": 84.61174242424242,
         "children": [
           {
             "id": "57d98bc4aa4fb833",
@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "papers/7/notes.md",
+                "file": "papers/7/Recommendation Unlearnin RecEraser.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "notes"
+              "title": "Recommendation Unlearnin RecEraser"
             }
           }
         ]
@@ -188,8 +188,16 @@
   },
   "active": "57d98bc4aa4fb833",
   "lastOpenFiles": [
+    "papers/6/A Survey on Recommendation Unlearning.md",
+    "papers/5/Machine Unlearning_ A Comprehensive Survey.md",
+    "papers/4/Machine Unlearning An Overview of Techniques Applications and Future Directions.md",
+    "papers/4/Machine Un-learning: An Overview of Techniques, Applications, and Future Directions.pdf",
+    "papers/3/Machine Unlearning Solutions and Challenges.md",
+    "papers/3/Machine Unlearning Solutions and Challenges.pdf",
+    "papers/2/Machine Unlearning_ A Survey.md",
+    "papers/1/Batmaz2018_Article_AReviewOnDeepLearningForRecomm.md",
+    "papers/7/Recommendation Unlearnin RecEraser.md",
     "images/Pasted image 20250422112448.png",
-    "papers/7/notes.md",
     "papers/7/Recommendation Unlearnin.pdf",
     "images/Pasted image 20250422112431.png",
     "images/Pasted image 20250422112337.png",
@@ -199,23 +207,15 @@
     "papers/6/A Survey on Recommendation Unlearning.pdf",
     "images/Pasted image 20250421235933.png",
     "papers/7",
-    "papers/6/notes.md",
     "images/Pasted image 20250422103754.png",
     "images/Pasted image 20250422103418.png",
     "images/Pasted image 20250422102758.png",
     "images/Pasted image 20250422100020.png",
     "papers/5/Machine Unlearning_ A Comprehensive Survey.pdf",
     "papers/6",
-    "papers/5/notes.md",
-    "papers/4/notes.md",
     "papers/5",
-    "papers/4/Machine Un-learning: An Overview of Techniques, Applications, and Future Directions.pdf",
     "papers/4",
-    "papers/3/Machine Unlearning Solutions and Challenges.pdf",
-    "papers/3/notes.md",
     "papers/3",
-    "papers/2/notes.md",
-    "papers/1/notes.md",
     "Welcome.md"
   ]
 }
